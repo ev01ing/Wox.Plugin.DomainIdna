@@ -1,0 +1,12 @@
+{
+    "ID":"B4D3B61F56E16D44866CAD8E8EAE47CF",
+    "ActionKeyword":"idna",
+    "Name":"domain idna",
+    "Description":"对域名进行idna编码和解码",
+    "Author":"ev01ing",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/ev01ing/Wox.Plugin.DomainIdna",
+    "ExecuteFileName":"main.py",
+	"IcoPath": "images/icon.png"
+}
